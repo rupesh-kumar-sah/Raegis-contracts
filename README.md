@@ -25,7 +25,7 @@ Run the comprehensive test suite locally:
    make test
    ```
 
-> Before opening a PR, run `make verify` (fmt-check + clippy + test + build) -- this is the same gate CI enforces, and failing checks can block PR approval. See the CI & Contributing section below, especially the [Failing CI Response Guide](docs/failing-ci-guide.md), if anything fails.
+> Before opening a PR, run `make verify` (fmt-check + clippy + test + build) -- this is the same gate CI enforces, and failing checks can block PR approval. See the CI & Contributing section below, especially the [Failing CI Response Guide](docs/failing-ci-guide.md) and the [Low-Effort PR Examples](docs/low-effort-pr-examples.md), if anything fails.
 
 ### SDK integration fixtures
 Deterministic example outputs for downstream SDK, dashboard, and indexer
