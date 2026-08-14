@@ -1,9 +1,9 @@
-#  Aegis RWA Contracts
+#  Raegis RWA Contracts
 
-Core smart contract infrastructure for the Aegis RWA Protocol. Built on the Stellar network using the Soroban SDK.
+Core smart contract infrastructure for the Raegis RWA Protocol. Built on the Stellar network using the Soroban SDK.
 
 ## Overview
-Aegis enables the fractional tokenization of Real-World Assets (RWAs). The contracts strictly enforce regulatory compliance at the ledger level, ensuring tokens can only be minted to and transferred between KYC-whitelisted addresses.
+Raegis enables the fractional tokenization of Real-World Assets (RWAs). The contracts strictly enforce regulatory compliance at the ledger level, ensuring tokens can only be minted to and transferred between KYC-whitelisted addresses.
 
 ## Prerequisites
 * [Rust](https://rustup.rs/) (>= 1.71)
